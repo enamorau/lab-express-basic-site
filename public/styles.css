@@ -1,0 +1,6 @@
+.profile-pic {
+    background-image: url(/public/img/et620.jpg);
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
